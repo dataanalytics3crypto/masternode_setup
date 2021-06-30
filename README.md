@@ -1,4 +1,4 @@
-# setting up server
+# How to set up a server
 we are using Digital Ocean as an example here.
 
 ### Click on Create at the top
