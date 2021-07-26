@@ -1,5 +1,5 @@
 # How to set up a server
-we are using Digital Ocean as an example here.
+we are using Digital Ocean as an example here. however, please feel free to use any provider of your choice.
 
 ### Click on Create at the top
 ![Create Droplet](https://github.com/dataanalytics3crypto/masternode_setup/blob/main/digitalocean1.png)
